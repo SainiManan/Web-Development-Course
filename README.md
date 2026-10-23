@@ -32,7 +32,7 @@ This repo documents my path from absolute beginner to full-stack developer. It c
 
 | Phase | Topic | What I'm learning | Status |
 | :---: | --- | --- | :---: |
-| 1 | **HTML** | Setup (VS Code & Live Server), page structure, headings, paragraphs & links, images, lists, tables, inline vs block elements, IDs & classes, video/audio/media, semantic tags, entities & code tag | ⬜ |
+| 1 | **HTML** | Setup (VS Code & Live Server), page structure, headings, paragraphs & links, images, lists, tables, inline vs block elements, IDs & classes, video/audio/media, semantic tags, entities & code tag | 🟨 |
 | 2 | **CSS** | Selectors, box model, fonts, text & colors, specificity & cascade, sizing units, display, shadows & outlines, variables, media queries, float & clear, flexbox, grid, transitions, animations, object-fit, filters | ⬜ |
 | 3 | **Design & Project** | Figma basics, Netflix clone (HTML + CSS) | ⬜ |
 | 4 | **JavaScript** | Node.js setup, variables & data types, conditionals, loops, functions, strings, arrays, objects & OOP, DOM manipulation, callbacks & promises, async/await, advanced JS, interview questions | ⬜ |

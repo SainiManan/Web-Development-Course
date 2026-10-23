@@ -134,7 +134,7 @@ Then open `http://localhost:3000` (or the port shown in your terminal).
 Built while learning in public. Feel free to ⭐ the repo, open an issue, or fork it for your own practice.
 
 - GitHub: [SainiManan](https://github.com/SainiManan)
-- LinkedIn: [Manan Saini](www.linkedin.com/in/manan-saini-208601311)
+- LinkedIn: [Manan Saini](https://www.linkedin.com/in/manan-saini-208601311/?isSelfProfile=true)
 
 ---
 

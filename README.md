@@ -133,8 +133,8 @@ Then open `http://localhost:3000` (or the port shown in your terminal).
 
 Built while learning in public. Feel free to ⭐ the repo, open an issue, or fork it for your own practice.
 
-- GitHub: [@your-username](https://github.com/SainiManan)
-- LinkedIn: [your-name](www.linkedin.com/in/manan-saini-208601311)
+- GitHub: [SainiManan](https://github.com/SainiManan)
+- LinkedIn: [Manan Saini](www.linkedin.com/in/manan-saini-208601311)
 
 ---
 

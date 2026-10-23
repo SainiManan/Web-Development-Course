@@ -1,0 +1,1 @@
+alert("This is a very basic Bookmark manager")
